@@ -9,3 +9,16 @@ h3 {
 
 }
 
+.tile-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 1 auto;
+    width: 408px;
+    min-height: 100px;
+}
+
+.tile {
+    height: 100px;
+    width: 100px;
+}
