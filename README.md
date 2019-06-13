@@ -1,3 +1,36 @@
+Memory Card Game 
+
+The game is played by clicking two tiles at a time, if a match is found then the tiles remain face up. If not, the tiles will flip back over, and the user can continue clicking on two tiles at a time until all matching cards are found. User win's once they have matched all tiles. 
+
+
+User Story
+
+Game should load a 4x4 grid. 
+
+4x4 Grid should have similar background image. 
+
+4x4 Grid should have two *matching* images 'hidden' behind background image, for a total of 8 matches.  
+
+Game should have a counter with how many matches are left, on a succesful match the counter should decrease. 
+
+If a user clicks on a tile it should swap images. 
+
+If user matches two tiles they should remain face up. 
+
+If user does not match two tiles, next click should 'unflip' each tile, and flip the new tile. 
+
+There should be a direction bar at the bottom of the game, 'click a tile', 'pick one more', 'try again', 'You Win'. 
+
+
+
+
+
+
+
+
+
+
+
 Front End Engineering Test
 ====================
 
